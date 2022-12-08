@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @Kilicer-Furkan
-🌍  I'm based in Amsterdam/Netherlands
-- 👀 I’m interested in ...
+- 🌍  I'm based in Amsterdam/Netherlands
 - 🚀  I'm currently open for work as a Freelancer
 - 🌱 I’m currently learning React
 - 🤝  I'm open to collaborating on interesting projects and startups.
