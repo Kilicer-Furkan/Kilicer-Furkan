@@ -1,9 +1,17 @@
 ## 👋 Hi, I’m @Kilicer-Furkan
+===============================
+
+Junior Front-End Developer | React Developer
+I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.
+-------------
+ 
+
 - 🌍  I'm based in Amsterdam/Netherlands
 - 🚀  I'm currently open for work as a Freelancer
 - 🌱 I’m currently learning React
 - 🤝  I'm open to collaborating on interesting projects and startups.
 - 📫 How to reach me furkankilicer@gmail.com
+
 
 <!---
 Kilicer-Furkan/Kilicer-Furkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
