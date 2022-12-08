@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Kilicer-Furkan
+## 👋 Hi, I’m Furkan KILICER
 
 #### Junior Front-End Developer | React Developer
 <p>I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.</p>
